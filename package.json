@@ -1,0 +1,18 @@
+{
+    "name": "cross-rguard",
+    "version": "0.0.1",
+    "description": "Cross RGuard Bot",
+    "main": "cross.js",
+    "scripts": {
+        "test": "node cross.js"
+    },
+    "author": "Cross",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "moment": "^2.29.1",
+        "mongoose": "^5.10.8",
+        "node": "^14.13.0"
+    },
+    "keywords": []
+}
